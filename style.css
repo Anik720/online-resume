@@ -1,0 +1,73 @@
+body{
+  font-family: 'Oswald', sans-serif;
+font-family: 'Poppins', sans-serif;
+margin: 0;
+padding: 0;
+}
+.heading{
+  background-color: rgb(8, 3, 36);
+}
+.green{
+  color: rgb(5, 53, 53);
+}
+.intro-details{
+  padding: 40px;
+  width: 40%;
+}
+.container{
+  display: flex;
+  
+}
+.intro-image{
+  width: 40%;
+  
+}
+.picture{
+  width: 30%;
+  padding-top: 60px;
+  padding-left: 500px;
+  
+}
+.intro-2 small{
+  color: white
+}
+
+.contact-2{
+  margin-left: 800px;
+}
+.contact-1{
+  padding-left: 20px;
+  margin-left: 20px;
+}
+.part-2{
+  width: 50%;
+padding-left: 20px;
+
+}
+.part-1{
+  width: 50%;
+  padding-left: 20px;
+  border-right: solid black 1px;
+}
+.edu{
+  display: inline;
+  border-bottom: 6px solid rgb(5, 53, 53);
+  
+
+}
+.btn{
+  text-decoration: none;
+  background-color: cornflowerblue;
+  padding: 10px 40px;
+}
+.btn:hover{
+  background-color: crimson;
+  font-size: 30px;
+}
+
+.skill{
+  display: inline;
+margin-top: 5px;
+  font-weight: 50px;
+  background-color: gray;
+}
